@@ -1,4 +1,8 @@
-
+body{
+  background-image: url("./assets/house1.jpg");
+  background-repeat: no-repeat;
+  background-size: 1450px 800px;
+}
 p{
   margin: 0px 40px 1px 0px;
 }
@@ -13,13 +17,12 @@ p{
   max-width: 505px;
   max-height: fit-content;
   position: fixed;
-  font-size: 2.8vw;
+  font-size: 37px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: white;
-  top: 340px;
-  left: 5%;
-  right: 20%;
-  transform: rotate(-5deg);
+  top: 430px;
+  left: 80px;
+  transform: rotate(-6deg);
 }
 #street_address{
   font-weight: bold;
