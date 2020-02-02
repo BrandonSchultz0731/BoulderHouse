@@ -10,12 +10,12 @@ p{
 
 }
 .sign_text{
-  font-size: 1.5em;
+  font-size: 3vw;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   position: absolute;
   color: white;
   top: 385px;
-  left: 70px;
+  left: 45px;
   transform: rotate(-5deg);
   background: transparent;
 }
