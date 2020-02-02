@@ -1,24 +1,35 @@
 import React from 'react';
-import logo from './logo.svg';
+import home from './assets/house1.jpg';
 import './App.css';
 
-function App() {
+function App(props) {
+
+  // const [mydays,setDays] = useState();
+
+  var broke_ground_date = new Date("12/17/2017");
+  var today = new Date()
+
+  var difference = today.getTime() - broke_ground_date.getTime();
+
+  var days = Math.floor(difference / (1000 * 3600 * 24));
+
+//   useEffect(() => {
+//     setDays(days)
+//     console.log(mydays);
+    
+// });
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="Home">
+     <img src={home} className='image_style' alt="oops" height="700" width="100%"/>
+     <div className="sign_text">
+      {/* <p>18 Ridge View Rd <br></br> {days} <br></br>by Cornerstone Homes </p> */}
+      <p id='street_address'>18 Ridge View Rd</p>
+      <p id='time_text'>{days} days</p>
+      <p id='corner_homes'>by Cornerstone Homes</p>
+      
+     </div>
     </div>
   );
 }
