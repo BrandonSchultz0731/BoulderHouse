@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/BoulderHouse/static/css/main.db7a2707.chunk.css",
-    "main.js": "/BoulderHouse/static/js/main.6a451fb9.chunk.js",
-    "main.js.map": "/BoulderHouse/static/js/main.6a451fb9.chunk.js.map",
+    "main.css": "/BoulderHouse/static/css/main.50e84595.chunk.css",
+    "main.js": "/BoulderHouse/static/js/main.922a8fe0.chunk.js",
+    "main.js.map": "/BoulderHouse/static/js/main.922a8fe0.chunk.js.map",
     "runtime-main.js": "/BoulderHouse/static/js/runtime-main.2903db3e.js",
     "runtime-main.js.map": "/BoulderHouse/static/js/runtime-main.2903db3e.js.map",
-    "static/js/2.ea49e5be.chunk.js": "/BoulderHouse/static/js/2.ea49e5be.chunk.js",
-    "static/js/2.ea49e5be.chunk.js.map": "/BoulderHouse/static/js/2.ea49e5be.chunk.js.map",
+    "static/js/2.1c0f9e95.chunk.js": "/BoulderHouse/static/js/2.1c0f9e95.chunk.js",
+    "static/js/2.1c0f9e95.chunk.js.map": "/BoulderHouse/static/js/2.1c0f9e95.chunk.js.map",
     "index.html": "/BoulderHouse/index.html",
-    "precache-manifest.ac4b939c373cd46d66d1bcd1177fa408.js": "/BoulderHouse/precache-manifest.ac4b939c373cd46d66d1bcd1177fa408.js",
+    "precache-manifest.224e20b1af898d0462dd334671abe323.js": "/BoulderHouse/precache-manifest.224e20b1af898d0462dd334671abe323.js",
     "service-worker.js": "/BoulderHouse/service-worker.js",
-    "static/css/main.db7a2707.chunk.css.map": "/BoulderHouse/static/css/main.db7a2707.chunk.css.map",
-    "static/js/2.ea49e5be.chunk.js.LICENSE.txt": "/BoulderHouse/static/js/2.ea49e5be.chunk.js.LICENSE.txt",
-    "static/media/house1.jpg": "/BoulderHouse/static/media/house1.9314a23c.jpg"
+    "static/css/main.50e84595.chunk.css.map": "/BoulderHouse/static/css/main.50e84595.chunk.css.map",
+    "static/js/2.1c0f9e95.chunk.js.LICENSE.txt": "/BoulderHouse/static/js/2.1c0f9e95.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/BoulderHouse/static/media/house1.9314a23c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2903db3e.js",
-    "static/js/2.ea49e5be.chunk.js",
-    "static/css/main.db7a2707.chunk.css",
-    "static/js/main.6a451fb9.chunk.js"
+    "static/js/2.1c0f9e95.chunk.js",
+    "static/css/main.50e84595.chunk.css",
+    "static/js/main.922a8fe0.chunk.js"
   ]
 }
