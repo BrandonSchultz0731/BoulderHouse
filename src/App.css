@@ -11,12 +11,13 @@ p{
 }
 .sign_text{
   font-size: 1.5em;
-  font-family: fantasy;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   position: absolute;
   color: white;
   top: 385px;
   left: 70px;
   transform: rotate(-5deg);
+  background: transparent;
 }
 #street_address{
   font-weight: bold;
