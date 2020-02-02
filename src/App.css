@@ -1,6 +1,4 @@
-body, html{
-  height: 100%;
-}
+
 p{
   margin: 0px 40px 1px 0px;
 }
@@ -10,15 +8,17 @@ p{
 
 }
 .sign_text{
+  position: absolute;
+  font-optical-sizing: auto;
   max-width: 505px;
   max-height: fit-content;
   position: fixed;
   font-size: 2.8vw;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  position: absolute;
   color: white;
-  top: 385px;
-  left: 55px;
+  top: 340px;
+  left: 5%;
+  right: 20%;
   transform: rotate(-5deg);
 }
 #street_address{
