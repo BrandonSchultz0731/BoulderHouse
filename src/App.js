@@ -4,7 +4,6 @@ import './App.css';
 
 function App(props) {
 
-  // const [mydays,setDays] = useState();
 
   var broke_ground_date = new Date("12/17/2017");
   var today = new Date()
@@ -13,11 +12,6 @@ function App(props) {
 
   var days = Math.floor(difference / (1000 * 3600 * 24));
 
-//   useEffect(() => {
-//     setDays(days)
-//     console.log(mydays);
-    
-// });
 
 
   return (
