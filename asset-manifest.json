@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/BoulderHouse/static/css/main.50e84595.chunk.css",
-    "main.js": "/BoulderHouse/static/js/main.922a8fe0.chunk.js",
-    "main.js.map": "/BoulderHouse/static/js/main.922a8fe0.chunk.js.map",
+    "main.css": "/BoulderHouse/static/css/main.6e253c0f.chunk.css",
+    "main.js": "/BoulderHouse/static/js/main.bfd5e0e4.chunk.js",
+    "main.js.map": "/BoulderHouse/static/js/main.bfd5e0e4.chunk.js.map",
     "runtime-main.js": "/BoulderHouse/static/js/runtime-main.2903db3e.js",
     "runtime-main.js.map": "/BoulderHouse/static/js/runtime-main.2903db3e.js.map",
     "static/js/2.1c0f9e95.chunk.js": "/BoulderHouse/static/js/2.1c0f9e95.chunk.js",
     "static/js/2.1c0f9e95.chunk.js.map": "/BoulderHouse/static/js/2.1c0f9e95.chunk.js.map",
     "index.html": "/BoulderHouse/index.html",
-    "precache-manifest.224e20b1af898d0462dd334671abe323.js": "/BoulderHouse/precache-manifest.224e20b1af898d0462dd334671abe323.js",
+    "precache-manifest.f8e91de2a53905308a0bbd4ced1ea1fc.js": "/BoulderHouse/precache-manifest.f8e91de2a53905308a0bbd4ced1ea1fc.js",
     "service-worker.js": "/BoulderHouse/service-worker.js",
-    "static/css/main.50e84595.chunk.css.map": "/BoulderHouse/static/css/main.50e84595.chunk.css.map",
+    "static/css/main.6e253c0f.chunk.css.map": "/BoulderHouse/static/css/main.6e253c0f.chunk.css.map",
     "static/js/2.1c0f9e95.chunk.js.LICENSE.txt": "/BoulderHouse/static/js/2.1c0f9e95.chunk.js.LICENSE.txt",
     "static/media/App.css": "/BoulderHouse/static/media/house1.9314a23c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2903db3e.js",
     "static/js/2.1c0f9e95.chunk.js",
-    "static/css/main.50e84595.chunk.css",
-    "static/js/main.922a8fe0.chunk.js"
+    "static/css/main.6e253c0f.chunk.css",
+    "static/js/main.bfd5e0e4.chunk.js"
   ]
 }
