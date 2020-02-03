@@ -1,5 +1,4 @@
 import React from 'react';
-import home from './assets/house1.jpg';
 import './App.css';
 
 function App(props) {
@@ -20,7 +19,7 @@ function App(props) {
      <div className="sign_text">
       {/* <p>18 Ridge View Rd <br></br> {days} days <br></br>by Cornerstone Homes </p> */}
       <p id='street_address'>18 Ridge View Rd</p>
-      <p id='time_text'>{days} days</p>
+      <p id='time_text'>{days} days...</p>
       <p id='corner_homes'>by Cornerstone Homes</p>
       
      </div>

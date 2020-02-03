@@ -17,16 +17,22 @@ p{
   max-width: 505px;
   max-height: fit-content;
   position: fixed;
-  font-size: 37px;
+  font-size: 35px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: white;
-  top: 430px;
+  top: 435px;
   left: 80px;
   transform: rotate(-6deg);
 }
 #street_address{
   font-weight: bold;
+  color: black;
 }
 #corner_homes{
   font-size: .7em;
+  color: black;
+  margin: 0px 0px 0px 20px;
+}
+#time_text{
+  margin: 0px 0px 0px 60px;
 }
