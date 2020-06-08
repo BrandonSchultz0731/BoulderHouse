@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BoulderHouse/precache-manifest.394462c3b3a05f007593c20e3a471cc7.js"
+  "/BoulderHouse/precache-manifest.0d60c0a691982eb5f0f4b320d0308edb.js"
 );
 
 self.addEventListener('message', (event) => {
